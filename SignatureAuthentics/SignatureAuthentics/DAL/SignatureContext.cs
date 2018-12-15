@@ -1,10 +1,11 @@
-﻿using System;
+﻿using MvcAffableBean.Models;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Web;
 
-namespace MvcAffableBean.DAL
+namespace SignatureAuthentics.DAL
 {
     public class SignatureContext:DbContext
 
